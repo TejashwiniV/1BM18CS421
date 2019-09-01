@@ -4,6 +4,7 @@ def func(list,key):
             return True
     else:
             return False 
+        
 list = []
 n = int(input("Enter the size of list:"))
 print("Enter the list elements in ascending order:")
