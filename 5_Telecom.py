@@ -38,3 +38,9 @@ print("Receiver".ljust(20),end=" ")
 print("Duration".ljust(20),end=" ")
 print("Type".ljust(20))
 util().parse_customer(list_of_call_string)
+'''
+OUTPUT:
+Dailer               Receiver             Duration             Type                
+9108109861           8050757308           60                   ISD                 
+9108109861           9741691292           50                   Local               
+9108109861           8150055436           40                   STD    '''             
